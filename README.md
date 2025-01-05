@@ -1,5 +1,5 @@
 # Next-SocketIO-Live-Communication-Project
-Fully Implemented Messaging Project using NextJS and SocketIO , using TailwingCSS, Typescript, Postgressql, NeonDB and Drizzle,TRPC for procedures, queries and mutations 
+Fully Implemented Live Messaging Project using NextJS and SocketIO, using ShadCn for UI,  TailwingCSS, Typescript, Postgressql, NeonDB and Drizzle, TRPC for procedures, querie,s and mutations 
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
