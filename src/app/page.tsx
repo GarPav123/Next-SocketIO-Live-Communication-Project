@@ -237,7 +237,7 @@ export default function Home() {
 			<div className="max-w-5xl mx-auto space-y-4">
 				<div className="text-center mb-4">
 					<h1 className="text-2xl font-bold text-white tracking-tight">
-						Real Time Messaging
+						Real Time Messaging by DevTeja
 					</h1>
 					<p
 						className={`text-sm mt-1 ${
