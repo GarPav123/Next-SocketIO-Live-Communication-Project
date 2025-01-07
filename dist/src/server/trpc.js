@@ -1,3 +1,5 @@
+/* eslint-disable @typescript-eslint/no-require-imports */
+// biome-ignore lint/suspicious/noRedundantUseStrict: <explanation>
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.publicProcedure = exports.router = void 0;
